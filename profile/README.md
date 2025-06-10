@@ -1,6 +1,6 @@
 # 🌐 Cloudikeme's Platform Labs
 
-Welcome to **Cloudikeme Platform Labs** — a portfolio-driven organization showcasing hands-on projects in **Platform Engineering**, **Internal Developer Platforms (IDPs)**, and **Developer Experience (DevEx)** tooling.  
+Welcome to **Cloudikeme's Platform Labs** — a portfolio-driven idea showcasing hands-on projects in **Platform Engineering**, **Internal Developer Platforms (IDPs)**, **Platform-as-a-Product**, and **Developer Experience (DevEx)** tooling.  
 
 Created and maintained by [Victor Ikeme](https://cloudikeme.com a.k.a cloudikeme, this space demonstrates practical applications of modern platform and cncf tools like **Score**, **Humanitec**, **Terraform**, **Dapr**, **Kubernetes**, **Docker**, and more — all through reproducible labs and use case scenarios.
 
