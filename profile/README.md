@@ -1,4 +1,4 @@
-# 🌐 Cloudikeme's Platform Labs
+# 🌐 Cloudikeme's Humanitec Hands-On Labs
 
 Welcome to **Cloudikeme's Platform Labs** — a portfolio-driven idea showcasing hands-on projects in **Platform Engineering**, **Internal Developer Platforms (IDPs)**, **Platform-as-a-Product**, and **Developer Experience (DevEx)** tooling.  
 
